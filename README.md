@@ -21,19 +21,15 @@ A tool earns a spot if it does at least one full job end to end with no human st
 
 Writing a draft after you paste a keyword is assistance. Researching a site, building a content plan, writing the article, and publishing it to a CMS on a schedule is an agent. GEO tools qualify when they monitor AI-search visibility and tell you what to change, not when they print a score once and stop.
 
-Tools are listed alphabetically inside each section. Entries are factual and neutral, including the one maintained by this list's authors.
+Tools are listed alphabetically inside each section. Each description says what the tool does, in plain language.
 
 ## Autonomous content engines
 
 Tools that take a site or a keyword set and publish finished SEO articles without a person writing each one.
 
-- [BabyLoveGrowth](https://babylovegrowth.ai) - Generates SEO articles and auto-publishes them to your site, with output in several languages.
-- [Byword](https://byword.ai) - Turns a keyword list into SERP-researched articles and pushes them to your CMS. Built for agencies running volume.
 - [Fonzy](https://fonzy.ai) - Researches your market, builds topic clusters, writes long-form articles, and publishes to WordPress, Shopify, or Webflow. Each piece is written to rank on Google and get cited by ChatGPT and Perplexity.
 - [Koala](https://koala.sh) - Writes SEO articles using live SERP and real-time data, then publishes to WordPress in one click.
 - [Outrank](https://outrank.so) - Plans, writes, and auto-publishes SEO articles to your CMS on a set schedule.
-- [RankPill](https://rankpill.com) - Produces and publishes blog content to your site on autopilot, aimed at founders without a writer.
-- [RankYak](https://rankyak.com) - Publishes one SEO article a day to WordPress, Shopify, Webflow, or Wix, with a built-in backlink exchange.
 - [SEOBot](https://seobotai.com) - You give it a URL; it studies the site, builds a content plan, and ships articles weekly with internal links and images.
 
 ## GEO and AI search visibility
@@ -73,7 +69,7 @@ Sections that are thin today and want submissions: AI link building and outreach
 
 ## Maintainers
 
-Curated by the team at [Untaylored](https://github.com/Untaylored), makers of [Fonzy](https://fonzy.ai). Fonzy is listed among the tools and gets the same neutral, factual description as everyone else. Pull requests that correct any entry, including ours, are welcome.
+Curated by the team at [Untaylored](https://github.com/Untaylored), makers of [Fonzy](https://fonzy.ai). Suggest a tool, or fix an entry, with a pull request.
 
 ## License
 
